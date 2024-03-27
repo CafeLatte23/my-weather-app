@@ -1,10 +1,17 @@
 body {
-  background-color: radial-gradient(
-    circle at 10% 20%,
-    rgb(186, 190, 245) 0%,
-    rgb(192, 192, 245) 33.1%,
-    rgb(218, 203, 246) 90%
+  background-color: linear-gradient(
+    to top,
+    #505285 0%,
+    #585e92 12%,
+    #65689f 25%,
+    #7474b0 37%,
+    #7e7ebb 50%,
+    #8389c7 62%,
+    #9795d4 75%,
+    #a2a1dc 87%,
+    #b5aee4 100%
   );
+
   font-family: "Nunito Sans", sans-serif;
 }
 
