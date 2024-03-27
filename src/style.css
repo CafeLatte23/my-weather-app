@@ -1,6 +1,6 @@
 body {
-  background-color: linear-gradient(
-    to top,
+  background: linear-gradient(
+    to bottom,
     #505285 0%,
     #585e92 12%,
     #65689f 25%,
