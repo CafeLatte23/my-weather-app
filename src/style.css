@@ -68,7 +68,7 @@ main {
 }
 
 .weather-app-details strong {
-  color: #f65282;
+  color: #430f58;
 }
 
 .weather-app-temperature-container {
@@ -97,4 +97,5 @@ footer {
   text-align: center;
   font-size: 14px;
   color: rgba(0, 0, 0, 0.6);
+  text-decoration: none;
 }
